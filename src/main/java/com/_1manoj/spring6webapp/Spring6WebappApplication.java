@@ -1,4 +1,4 @@
-package com.manoj.spring6webapp;
+package com._1manoj.spring6webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
